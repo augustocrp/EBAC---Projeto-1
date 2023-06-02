@@ -84,8 +84,8 @@ section p {
     margin-right: 32px;
 }
 
-.social-links svg {
-    height: 26px;
+.social-links img {
+    height: 30px;
 }
 
 #contact .container {
@@ -137,4 +137,10 @@ form button:hover{
 
 input:focus, textarea:focus {
     outline-color: #1e1d1e;
+}
+
+footer {
+    background-color: #2e2d2e;
+    color: #ecf0f1;
+    padding: 50px 0;
 }
